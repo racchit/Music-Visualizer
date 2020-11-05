@@ -37,5 +37,5 @@ def animate(i):
 
 
 anim = animation.FuncAnimation(fig, animate, init_func=init, frames=n_graphs, interval=length)
-anim.save('CMajor.mp4')
+anim.save('Fanfare60.mp4')
 plt.show()
